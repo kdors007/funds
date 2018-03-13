@@ -1,0 +1,25 @@
+.month {
+  text-align: center;
+  font-size: 3em;
+}
+
+table {
+  margin-top: 3%;
+}
+
+th {
+  text-align: center;
+}
+
+td {
+  height: 14vh;
+  width: 10%;
+}
+
+.month {
+}
+
+.current-day {
+  background-color: lightgrey;
+  color: green;
+}
